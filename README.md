@@ -9,10 +9,10 @@ The live site is available at: [https://anirbanchatterjee.github.io](https://ani
 ---
 
 ## 📌 About
-I am a postdoctoral researcher at **LOMA (Laboratoire Ondes et Matière d'Aquitaine), University of Bordeaux**, working with **Thomas Salez**.  
+I am a postdoctoral researcher at **LOMA (Laboratoire Ondes et Matière d'Aquitaine), University of Bordeaux**, working with **Thomas Salez**. Previously, I did my PhD in Mathematics from **IIT Roorkee**, under **Ameeya Kumar Nayak**.
 
 My research interests lie at the intersection of:
-- **Active matter near interfaces**  
+- **Active matter**  
 - **Elasto-electro-hydrodynamics**  
 - **Statistical mechanics and hydrodynamics**  
 - **Dispersion and transport phenomena in micro- and nano-fluidic systems**  
