@@ -10,10 +10,9 @@ working with **Thomas Salez**.
 
 My research lies at the intersection of **soft matter physics**, **fluid dynamics**, and **statistical mechanics**, with a particular focus on:
 
-- 🧩 **Active matter near interfaces**  
-- 🌊 **Elasto-electro-hydrodynamics**  
-- ⚡ **Electrokinetic effects in confined flows**  
-- 🔬 **Transport and dispersion phenomena in micro- and nano-fluidic systems**  
+- 🧩 **Active matter**  
+- 🌊 **Elasto-electro-hydrodynamics**   
+- 🔬 **Transport in micro- and nano-fluidic systems**  
 
 ---
 
