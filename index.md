@@ -4,9 +4,7 @@ title: "Anirban Chatterjee"
 
 # 👋 Welcome visitors
 
-I am a **Postdoctoral Researcher** at the  
-**Laboratoire Ondes et Matière d'Aquitaine (LOMA), University of Bordeaux**,  
-working with **Thomas Salez**.  
+I am a **Postdoctoral Researcher** at the  **Laboratoire Ondes et Matière d'Aquitaine (LOMA), University of Bordeaux**, working with **Thomas Salez**.  
 
 My research lies at the intersection of **soft matter physics**, **fluid dynamics**, and **statistical mechanics**, with a particular focus on:
 
