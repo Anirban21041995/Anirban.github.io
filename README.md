@@ -1,16 +1,25 @@
 # Anirban.github.io
 # My Research Website
 
+# Anirban Chatterjee – Research Website
+
 This repository contains the source code for my personal academic website, hosted with [GitHub Pages](https://pages.github.com/).  
-The website is available at: [https://username.github.io](https://username.github.io).
+The live site is available at: [https://anirbanchatterjee.github.io](https://anirbanchatterjee.github.io).
 
 ---
 
 ## 📌 About
+I am a postdoctoral researcher at **LOMA (Laboratoire Ondes et Matière d'Aquitaine), University of Bordeaux**, working with **Thomas Salez**.  
+
+My research interests lie at the intersection of:
+- **Active matter near interfaces**  
+- **Elasto-electro-hydrodynamics**  
+- **Statistical mechanics and hydrodynamics**  
+- **Dispersion and transport phenomena in micro- and nano-fluidic systems**  
+
 This website presents my academic profile, including:
-- **Research interests**  
+- **Research themes and projects**  
 - **Publications**  
-- **Teaching and mentoring**  
 - **Curriculum Vitae (CV)**  
 - **Contact information**  
 
@@ -28,5 +37,5 @@ Content is organized into:
 ## 🚀 How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/username/username.github.io
-   cd username.github.io
+   git clone https://github.com/anirbanchatterjee/anirbanchatterjee.github.io
+   cd anirbanchatterjee.github.io
